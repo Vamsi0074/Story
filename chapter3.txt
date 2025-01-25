@@ -1,1 +1,10 @@
 A picture is worth a thousand words.
+
+git branch [name]
+--> check --> git branch
+
+git chekout [name]
+
+------------------
+git add .
+git commit -m "message"
